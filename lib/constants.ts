@@ -1,0 +1,50 @@
+export const events = [
+  {
+    image: '/images/event1.png',
+    title: "Web Summit 2024",
+    slug: "web-summit-2024",
+    location: "Lisbon, Portugal",
+    date: "November 11-14, 2024",
+    time: "9:00 AM - 6:00 PM",
+  },
+  {
+    image: '/images/event2.png',
+    title: "Devconnect 2024",
+    slug: "devconnect-2024",
+    location: "Istanbul, Turkey",
+    date: "November 11-18, 2024",
+    time: "10:00 AM - 7:00 PM",
+  },
+  {
+    image: '/images/event3.png',
+    title: "KubeCon + CloudNativeCon NA",
+    slug: "kubecon-na-2024",
+    location: "Salt Lake City, USA",
+    date: "November 12-15, 2024",
+    time: "8:30 AM - 5:30 PM",
+  },
+  {
+    image: '/images/event4.png',
+    title: "GitHub Universe 2024",
+    slug: "github-universe-2024",
+    location: "San Francisco, USA",
+    date: "October 29-31, 2024",
+    time: "9:00 AM - 5:00 PM",
+  },
+  {
+    image: '/images/event5.png',
+    title: "AWS re:Invent 2024",
+    slug: "aws-reinvent-2024",
+    location: "Las Vegas, USA",
+    date: "December 2-6, 2024",
+    time: "8:00 AM - 6:00 PM",
+  },
+  {
+    image: '/images/event6.png',
+    title: "Google Cloud Next '25",
+    slug: "google-cloud-next-25",
+    location: "Las Vegas, USA",
+    date: "April 1-3, 2025",
+    time: "9:00 AM - 5:00 PM",
+  }
+];
